@@ -1,0 +1,10 @@
+${AnsiColor.BRIGHT_RED}
+   ______   ___   ____  _____ _________    _      ____  ____
+ .' ___  |.'   `.|_   \|_   _|  _   _  |  / \    |_  _||_  _|
+/ .'   \_/  .-.  \ |   \ | | |_/ | | \_| / _ \     \ \  / /
+| |      | |   | | | |\ \| |     | |    / ___ \     > `' <
+\ `.___.'\  `-'  /_| |_\   |_   _| |_ _/ /   \ \_ _/ /'`\ \_
+ `.____ .'`.___.'|_____|\____| |_____|____| |____|____||____|
+${AnsiColor.WHITE}-------------------------------------------------------------
+${AnsiColor.WHITE}::: ${AnsiColor.GREEN}Spring Boot version ${AnsiColor.BRIGHT_WHITE}${spring-boot.version}${AnsiColor.WHITE}   ■   ${AnsiColor.BLUE}Project version ${AnsiColor.BRIGHT_WHITE}0.0.1${AnsiColor.WHITE} :::
+${AnsiColor.WHITE}-------------------------------------------------------------
