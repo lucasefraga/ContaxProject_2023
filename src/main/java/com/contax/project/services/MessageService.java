@@ -46,6 +46,7 @@ public class MessageService implements IService<Message> {
         if (optionalMessage.isPresent()){
             Message updatedMessage = optionalMessage.get();
             updatedMessage.setContent(message.getContent());
+            updatedMessage.setTitle(message.getTitle());
             updatedMessage.setUpdateDate(LocalDateTime.now());
             return repository.save(updatedMessage);
         }

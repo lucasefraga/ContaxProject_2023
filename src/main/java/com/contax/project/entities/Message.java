@@ -25,11 +25,9 @@ public class Message implements Serializable {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NonNull
     @Column(name = "title")
     private String title;
 
-    @NonNull
     @Column(name = "content")
     private String content;
 
